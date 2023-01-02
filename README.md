@@ -1,7 +1,7 @@
 # To Do App
 
 1. Install MongoDB. Install with the 5.0 version.
-2. Run `mongod` command.
+2. Run `mongod` command in the terminal under directory `..\MongoDB\Server\5.0\bin`.
 3. Open a terminal, split into two screens.
 4. First screen, cd to client folder -> run this command `npm run start`.
 5. Second screen, cd to server folder -> run this command `node index.js`.
